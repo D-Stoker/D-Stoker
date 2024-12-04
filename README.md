@@ -1,4 +1,3 @@
-
 <!-- **D-Stoker/D-Stoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h2 align="auto">🔭 About me</h2>
@@ -18,4 +17,3 @@
   <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML Static Badge" src="https://img.shields.io/badge/HTML-badge?style=for-the-badge&logo=html5&&logoColor=white&logoSize=auto&color=black"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS Static Badge" src="https://img.shields.io/badge/CSS-badge?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&color=black"></a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=D-Stoker)](https://git.io/streak-stats)
