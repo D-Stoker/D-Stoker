@@ -8,7 +8,7 @@
 
 <p dir="auto">As an aerospace maintenance tech, I currently overhaul helicopter floats and liferafts to ensure operable working conditions; with a manufacturing background in computer servers and industrial tractors, maintenance became a natural progression. I've also experienced tech as web developer in the early 2000s, done social media marketing circa 2016, attempted a digital project management bootcamp in 2019, currently engaging in a web development bootcamp to upskill & go all in on IT.</p>
 
-<p>When not crafting code, I've got 2 kids & 6 cats & family to take care of.</p>
+<p>When not crafting code or working, I work as a: boyfriend to 1, step-dad for 2, and cat-dad to 6.</p>
 <ul><li>Contact me: <a href="mailto:dje.stoker@gmail.com" target="_blank">dje.stoker@gmail.com</a>.
 <li>My history: <a href="https://www.linkedin.com/in/daniel-stoker/" target="_blank">https://www.linkedin.com/in/daniel-stoker/</a>
 </ul>
